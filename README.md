@@ -104,3 +104,8 @@ Configure the path in `ocr.py` if needed:
 ```
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 ```
+
+
+🧠 Author
+Anuj Singh
+Indian Institute of Technology Roorkee
