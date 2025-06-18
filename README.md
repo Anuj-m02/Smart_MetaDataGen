@@ -15,7 +15,7 @@
 ---
 
 ## 🗂️ Project Structure
-
+```
 Mars_MetaData/
 │
 ├── app/
@@ -32,7 +32,7 @@ Mars_MetaData/
 ├── README.md
 └── requirements.txt
 
-
+```
 
 ---
 
@@ -50,7 +50,7 @@ Mars_MetaData/
   - OCR PDFs with non-searchable content.
 
 ### 🧠 metadata_gen.py
-- Takes extracted text and queries an LLM (like OpenAI or Gemini) to:
+- Takes extracted text and queries an LLM (Llama) to:
   - Generate metadata in JSON format.
   - Extract structured information: title, author, keywords, sections, sentiment, etc.
 
