@@ -285,7 +285,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📈 Demo
 
-A 2-minute demo video showing the system in action is available in the `demo/` folder.
+ Documents which are checked are available in the `demo/` folder.
 
 ---
 
